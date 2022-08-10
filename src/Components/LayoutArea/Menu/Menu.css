@@ -1,0 +1,15 @@
+.Menu {
+    display: flex;
+    flex-direction: column;
+	
+}
+ 
+.Menu > * {
+    margin-top: 20px;
+}
+.active{
+    border: 1px black;
+    color: black;
+    background-color: blanchedalmond;
+    padding: 5px 0px 5px 0px;
+}

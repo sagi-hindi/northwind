@@ -1,0 +1,16 @@
+.Login > form {
+    width: 250px;
+   
+	
+}
+
+.Login input{
+    width:100%;
+    box-sizing: border-box;
+    margin:0px 0px 10px 0px;
+}
+
+.Login button{
+    width:100%;
+    margin:10px 0px 10px 0px;
+}
